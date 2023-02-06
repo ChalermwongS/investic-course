@@ -49,3 +49,4 @@ print(string4)
 # 5 เปลี่ยนคำว่า Hello World ให้เป็นอักษรตัวพิมพ์เล็ก
 string5 = astring.lower()
 print(string5)
+
