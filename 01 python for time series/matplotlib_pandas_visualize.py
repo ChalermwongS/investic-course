@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1ILJx1HqiEfEmkNOUNbbV8tjPvk825zj-
 """
 
-!pip install yfinance
+# !pip install yfinance
 
 import pandas as pd
 from pandas_datareader import data as pdr
