@@ -1,0 +1,17 @@
+เรียนเรียงจาก algo expert 7 คอร์สย่อยตามลำดับนี้นะครับ
+1.Python for Time Series สอน python ระดับ basic พร้อมวิธีจัดการ time series
+
+2.Python for Investing Beginner ประยุกต์ใช้ python กับการลงทุน เปิดโลก สร้างกราฟแท่งเทียน สร้างสัญญาณซื้อขาย
+
+3.Technical Analysis สร้างกลยุทธ์ และทำ backtest ง่ายๆ เพื่อปรับจูน parameter ด้วย python
+
+4.Strategy Backtesting  เรียนรู้การทำ backtest โดยละเอียด เพื่อใช้เทรดจริง และปรับ parameter
+
+5.Money & Risk Management เรียนรู้ MM การบริหารหน้าตัก ป้องกันระบบ drawdown
+
+6.Realtime Algorithmic Trading เรียนรู้การเชื่อมต่อ API ซื้อขาย real-time ตามสัญญาณ
+
+7. stock screening Technical Analysis สกรีนหุ้น คริปโต หลายๆตัวเพื่อหาโอกาสทำกำไร และต่อยอดสร้างระบบซื้อขาย
+
+ตามด้วย quantitative investing > python for quant ครับ
+และตามด้วย machine learning 101/201 deep learning 101/201 ครับ
